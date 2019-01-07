@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - JMProject (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - JMProject (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  JMProject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  JMProject: 5a403f5b4f871bec6140a0907b8222f2b11178d7
+
+PODFILE CHECKSUM: 4ee7200d1dec360446ac572c1193d2dd2eff3930
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module JMProject {
+  umbrella header "JMProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

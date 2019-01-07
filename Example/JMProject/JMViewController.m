@@ -7,6 +7,7 @@
 //
 
 #import "JMViewController.h"
+#import "JMTools.h"
 
 @interface JMViewController ()
 
@@ -17,6 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    JMTools *tool = [JMTools new];
+    [tool echoLog];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

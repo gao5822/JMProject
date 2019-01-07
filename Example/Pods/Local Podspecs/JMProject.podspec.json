@@ -1,0 +1,22 @@
+{
+  "name": "JMProject",
+  "version": "0.1.0",
+  "summary": "A short description of JMProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gao5822/JMProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gao5822": "13593437521@163.com"
+  },
+  "source": {
+    "git": "https://github.com/gao5822/JMProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JMProject/Classes/**/*"
+}
